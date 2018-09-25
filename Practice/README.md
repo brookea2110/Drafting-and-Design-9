@@ -1,1 +1,1 @@
-#This folder will be used for my practicing abilities
+This folder will be used for my practicing abilities
